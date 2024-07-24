@@ -9,8 +9,8 @@ The Online Fee Management System is a web-based application designed to manage a
 **User Interface**      : User-friendly web interface using HTML, CSS, and JavaScript.
 
 - ## Technologies Used
-  HTML
-  CSS
-  PHP
-  JavaScript
-  MySQL
+  HTML,
+  CSS,
+  PHP,
+  JavaScript,
+  MySQL.
